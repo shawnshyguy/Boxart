@@ -12,3 +12,8 @@ Absolutely! Just message me on Discord, @Shawn#3462, and mention this repo.
 
 ### Folder structure
 If the layout of these folders has you a tad confused, read this: [Folders.md](https://github.com/shawnshyguy/Boxart/blob/master/Folders.md)
+
+### A few more notes
+
+- The games scanned in right now are just some cartridges I scanned in for a test run one day, so it's kinda all over the place lol
+- Some of the carts I scanned in are kinda dirty. If you want to contribute, you don't need your media in pristine quality! Cartridges and discs get worn from use, and as long as it's not distractingly mauled, I'll more than likely be happy to add it. That being said, for any of the discs/carts/etc uploaded here that are kind of beat up, if a better quality copy gets scanned and uploaded later on, it'll probably replace the original scuffed one.
