@@ -14,6 +14,7 @@ Each game has one or more of the following
 - **Cover.png** - Only the front of the game's box
 - **Disc.png** - The game's disc. in the case that a game comes on multiple discs (Like *Metal Gear Solid*), subsiquent discs would be numbered (*Disc2.png, Disc3.png,* so on)
 - **Extra.png** - Any extras that came with a game (like the *Animal Crossing Memory Card 59*)
+- **Inart.png** - The inner art, if any, that's sometimes printed on the reverse side of the boxart's insert.
 - **Insert.png** - Any insert that came with the game (think Club Nintendo codes, etc). Multiple inserts would be titled numerically, such as *Insert1.png, Insert2.png,* and so on
 - **Manual.pdf** - The game's manual formatted as a pdf for easier viewing
 
