@@ -17,6 +17,7 @@ Each game has one or more of the following
 - **Insert.png** - Any insert that came with the game (think Club Nintendo codes, etc). Multiple inserts would be titled numerically, such as *Insert1.png, Insert2.png,* and so on
 - **Manual.pdf** - The game's manual formatted as a pdf for easier viewing
 
+In certain cases, such as where a game got a re-release as a "Greatest Hits", the GH and non-GH versions would both be under the same folder, labeled such as *disc.png* and *disc (Greatest Hits).png*
 
 
 Additionally, I'd love to add some categories for games consoles' boxarts, memory card scans, and more, but those would have to come later on.
