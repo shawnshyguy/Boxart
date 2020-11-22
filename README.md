@@ -8,7 +8,7 @@ Each item is scanned in at 300dpi, adjusted in Photoshop if need be and then exp
 Preservation is important, for one. Another reason is just the lack of a solid source for these. Sources like [IGDB](https://www.igdb.com/discover), [GameTDB](https://www.gametdb.com/), and plenty more have an incredible amount of boxarts and such, but of varying quality, and of varying media. For instance, IGDB is a great source, until you want the game's disc art. This project is intented to be a ground-up, curated source of high quality scans of game cartridges, boxes, manuals, and everything else.
 
 ## Can I help?
-Absolutely! Just make a fork and make a pull request with your added scans. I'll check em over and if they'll all good, I'll merge! If you're not sure on how forks and pull requests work, you can also just message me on Discord, @Shawn#3462.
+Absolutely! Just make a fork and make a pull request with your added scans. I'll check em over and if they'll all good, I'll merge! If you're not sure on how forks and pull requests work, or for any other reason, you can message me on Discord, @Shawn#3462.
 
 ### Folder structure
 If the layout of these folders has you a tad confused, read this: [Folders.md](https://github.com/shawnshyguy/Boxart/blob/master/Folders.md)
