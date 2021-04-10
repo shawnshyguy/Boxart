@@ -1,3 +1,4 @@
+(It's worth noting that, as I build up this database, things are subject to change. If you have any ideas on how to better sort these, let me know!)
 ## Folder layout
 Each console has it's own folder, and in each console's folder are the games. In these game folders are the boxarts, discarts, and whatever else is applicable. So for instance, if you wanted the disc for Super Mario Galaxy, you would look for this:
 ```
